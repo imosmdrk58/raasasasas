@@ -1,0 +1,33 @@
+{
+  "token": "OTAxODMzMDUxMTc5NDU0NDg0.YXVneg.LmqYPfelG77SYYCxYgNkcfgg3cM",
+  "prefix": ["."],
+  "guildID": "909502305223708682",
+  "mongoUrl": "mongodb+srv://Solomon:Ma.626409636@cluster0.2bqt4.mongodb.net/marino-creature?retryWrites=true&w=majority",
+  "owners": ["305646413256065034"],
+  "botDurum": "Seha 💖 Marino",
+  "botSes": "909502307085975644",
+  "registerPerm": "909502305328570417",
+
+  "dmMessages": true,
+
+  "messageDolar": 1,
+  "voiceDolar": 2,
+
+
+  "messageCount": 1,
+  "messageCoin": 2,
+  "voiceCount": 1,
+  "voiceCoin": 4,
+  "publicCoin": 4,
+  "inviteCount": 1,
+  "inviteCoin": 15,
+  "taggedCoin": 25,
+  "toplamsCoin": 5.5,
+  "yetkiCoin": 30,
+
+  "banlimit": 3,
+  "jaillimit": 5,
+  "warnlimit": 7,
+  "chatmutelimit": 6,
+  "voicemutelimit": 8
+}
